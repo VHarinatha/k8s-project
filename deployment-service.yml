@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: shaikmustafa/ccit-repo:v1
+        image: harinath927/hariapp:mydockerimage 
         ports:
         - containerPort: 3000   # Use port 3000
 
